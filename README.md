@@ -14,11 +14,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discordapp.com/users/345724192601276417)
 
-<br>
 
 ![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=iJhonN&show_icons=true&theme=tokyonight)
-
-<br>
 
 ### Tecnologias que uso 💻
 
@@ -32,7 +29,6 @@
 <div>
 <br>---------------------------------------------------------------------------------
 
-<br>
 
 ### Também tenho experiência com 💻
 
@@ -46,7 +42,6 @@
 <div>
 <br>---------------------------------------------------------------------------------
 
-<br>
 
 ### Sistemas Operacionais que utilizo 🐱‍👤
 
