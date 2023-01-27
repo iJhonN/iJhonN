@@ -1,5 +1,5 @@
 
-### Olá! Meu nome é Jhonatha, sou novo no GitHub🚓
+### Olá! Meu nome é Jhonatha bem-vindos ao meu GitHub🚓
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/jhonatha_nunes/)
