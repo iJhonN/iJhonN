@@ -15,7 +15,7 @@
 )](https://discordapp.com/users/345724192601276417)
 
 
-![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=iJhonN&show_icons=true&theme=tokyonight)
+
 
 ### Tecnologias que uso 💻
 
