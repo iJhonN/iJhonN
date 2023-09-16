@@ -18,7 +18,7 @@
 
 
 
-<h1>Tecnologias que uso 💻<h1>
+<h3> Tecnologias que uso 💻 </h3>
 
 <div stiyle="display: inline_block"><br/>
     <img align="center" alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> 
@@ -45,7 +45,7 @@
 <hr>
 
 
-<h3>Também tenho experiência com 💻<h3>
+<h3>Também tenho experiência com 💻</h3>
 
 <div stiyle="display: inline_block"><br/>
     <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
@@ -59,7 +59,7 @@
 <hr>
 
 
-<h3>Sistemas Operacionais que utilizo 🐱‍👤<h3>
+<h3>Sistemas Operacionais que utilizo 🐱‍👤</h3>
 
 <div stiyle="display: inline_block"><br/>
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
