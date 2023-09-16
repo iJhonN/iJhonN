@@ -18,7 +18,7 @@
 
 
 
-### Tecnologias que uso 💻
+<h1>Tecnologias que uso 💻<h1>
 
 <div stiyle="display: inline_block"><br/>
     <img align="center" alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> 
@@ -45,7 +45,7 @@
 <hr>
 
 
-### Também tenho experiência com 💻
+<h2> Também tenho experiência com 💻 <h2>
 
 <div stiyle="display: inline_block"><br/>
     <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
