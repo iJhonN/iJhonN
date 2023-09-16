@@ -42,6 +42,9 @@
     <img align="right" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <div>
 
+<br>
+<br>
+<br>
 <hr>
 
 
@@ -56,6 +59,7 @@
     <img align="center" alt="Lua" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <div>
 
+<br>
 <hr>
 
 
