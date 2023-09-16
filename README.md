@@ -73,4 +73,3 @@
     <img align="center" alt="MACOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <div>
 
-![Snake animation](https://github.com/iJhonN/iJhonN/blob/output/github-contribution-grid-snake.svg)
