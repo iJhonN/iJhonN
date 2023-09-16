@@ -68,3 +68,4 @@
     <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     <img align="center" alt="MACOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <div>
+![Snake animation](https://github.com/iJhonN/iJhonN/blob/output/github-contribution-grid-snake.svg)
