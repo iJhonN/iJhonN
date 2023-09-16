@@ -14,6 +14,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discordapp.com/users/345724192601276417)
 
+<hr>
 
 
 
@@ -40,6 +41,7 @@
     <img align="center" alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <div>
+
 <hr>
 
 
@@ -53,7 +55,8 @@
     <img align="center" alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> 
     <img align="center" alt="Lua" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <div>
-<br>---------------------------------------------------------------------------------
+
+<hr>
 
 
 ### Sistemas Operacionais que utilizo 🐱‍👤
