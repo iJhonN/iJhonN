@@ -22,14 +22,6 @@
 
 
 <hr>
-<h6> 
- ____  __.                   .__ <Br>
-|    |/ _|____   ____ _____  |__|<Br>
-|      <_/ __ \ /    \\__  \ |  |<Br>
-|    |  \  ___/|   |  \/ __ \|  |<Br>
-|____|__ \___  >___|  (____  /__|<Br>
-        \/   \/     \/     \/    <Br>
-</h6>
 
 <h3> Tecnologias que uso 💻 </h3>
 
@@ -81,5 +73,12 @@
     <img align="center" alt="MACOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <div>
 <hr>
-    
+    <h6>
+ ____  __.                   .__ <Br>
+|    |/ _|____   ____ _____  |__|<Br>
+|      <_/ __ \ /    \\__  \ |  |<Br>
+|    |  \  ___/|   |  \/ __ \|  |<Br>
+|____|__ \___  >___|  (____  /__|<Br>
+        \/   \/     \/     \/  <Br>
+    </h6>
 
