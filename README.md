@@ -1,5 +1,5 @@
 
-### Olá, sou Jhon um programador front-end e UI/UX Designer apaixonado por tecnologia. Desde os 4 anos de idade, tenho uma conexão profunda com computadores, o que me motivou a seguir uma carreira que une criatividade e lógica.
+### Olá, sou Jhon um programador front-end e UI/UX Designer que adora por tecnologia. Desde os 4 anos de idade, tenho uma conexão muito profunda com computadores, o que me motivou a seguir essa carreira que une a criatividade e a lógica.
 <hr>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
