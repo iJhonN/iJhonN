@@ -73,12 +73,3 @@
     <img align="center" alt="MACOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <div>
 <hr>
-###
- ____  __.                        .__ 
-|    |/ _|  ____    ____  _____   |__|
-|      <  _/ __ \  /    \ \__  \  |  |
-|    |  \ \  ___/ |   |  \ / __ \_|  |
-|____|__ \ \___  >|___|  /(____  /|__|
-        \/     \/      \/      \/     
-    
-
