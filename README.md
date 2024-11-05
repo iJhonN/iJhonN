@@ -1,5 +1,5 @@
 
-### Olá! Meu nome é Jhonatha bem-vindos ao meu GitHub🚓
+### Olá, sou Jhon um programador front-end e UI/UX Designer apaixonado por tecnologia. Desde os 4 anos de idade, tenho uma conexão profunda com computadores, o que me motivou a seguir uma carreira que une criatividade e lógica.
 <hr>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -73,12 +73,12 @@
     <img align="center" alt="MACOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <div>
 <hr>
-    <h6>
+###
  ____  __.                        .__ 
 |    |/ _|  ____    ____  _____   |__|
 |      <  _/ __ \  /    \ \__  \  |  |
 |    |  \ \  ___/ |   |  \ / __ \_|  |
 |____|__ \ \___  >|___|  /(____  /|__|
         \/     \/      \/      \/     
-    </h6>
+    
 
