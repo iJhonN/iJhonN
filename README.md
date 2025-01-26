@@ -2,10 +2,6 @@
 ### Olá, sou Jhon um programador front-end e UI/UX Designer que ama tecnologia. Desde os 4 anos de idade, tenho uma conexão muito profunda com computadores, o que me motivou a seguir essa carreira que une a criatividade e a lógica.
 <hr>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/jhonatha_nunes/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/Dev_JhonN)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discordapp.com/users/345724192601276417)
 
