@@ -6,6 +6,8 @@
 )](https://discordapp.com/users/345724192601276417)
 
 <hr>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
 <h3> Tecnologias que uso 💻 </h3>
 
