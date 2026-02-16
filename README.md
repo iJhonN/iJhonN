@@ -1,14 +1,9 @@
 
-### Olá, sou Jhon um programador front-end e UI/UX Designer que ama tecnologia. Desde os 4 anos de idade, tenho uma conexão muito profunda com computadores, o que me motivou a seguir essa carreira que une a criatividade e a lógica.
+### Apaixonado por tecnologia, foco em automação, clareza e eficiência. Desenvolvo soluções unindo programação, design e front-end para criar experiências simples e intuitivas.
 <hr>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discordapp.com/users/345724192601276417)
-
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iJhonN&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijhonn&hide_progress=true)
 
 <hr>
 
