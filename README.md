@@ -23,8 +23,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,kotlin,lua" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </p>
 
 **Bancos de dados**
@@ -42,7 +40,7 @@
 **Ferramentas e IA**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,datagrip,claude,gemini" />
   <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
