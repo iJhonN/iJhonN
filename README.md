@@ -22,7 +22,7 @@ Plataforma de controle financeiro para uso pessoal e também para **motoristas d
 - Acompanhamento de gastos ao longo do tempo: assinaturas, fast food, compras, combustível e mais
 - Modo específico para motoristas de app
 
-`TypeScript` · [Ver demo](https://LINK-DA-DEMO) · [Código](https://github.com/iJhonN/j-financas)
+`TypeScript` · [Código](https://github.com/iJhonN/j-financas)
 
 ### 📚 [Study With Me](https://github.com/iJhonN/study-with-me)
 Plataforma de estudos para **concursos públicos**.
@@ -32,7 +32,7 @@ Plataforma de estudos para **concursos públicos**.
 - Envia conteúdos e questões para praticar
 - Após um número definido de respostas, libera **simulados**
 
-`JavaScript` · [Ver demo](https://LINK-DA-DEMO) · [Código](https://github.com/iJhonN/study-with-me)
+`JavaScript` · [Código](https://github.com/iJhonN/study-with-me)
 
 ### 🤖 Automações e bots de atendimento
 Bots de **WhatsApp** que respondem clientes automaticamente, criados com **n8n** e integrações por API.
