@@ -1,5 +1,5 @@
 ### Apaixonado por tecnologia, foco em automação, clareza e eficiência. Desenvolvo soluções unindo programação, design e front-end para criar experiências simples e intuitivas.
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=iJhonN)](https://github.com/stats-organization/github-stats-extended)
 <hr>
 
 ### Tecnologias que uso 💻
