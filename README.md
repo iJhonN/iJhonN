@@ -11,27 +11,6 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 💸 [J-Finanças](https://github.com/iJhonN/j-financas)
-Plataforma de controle financeiro para uso pessoal e também para **motoristas de aplicativo**, com funções exclusivas para eles.
-
-- Cadastro de cartões por **apelido, sem armazenar dados sensíveis**
-- Acompanhamento de gastos ao longo do tempo: assinaturas, fast food, compras, combustível e mais
-- Modo específico para motoristas de app
-
-`TypeScript` · [Código](https://github.com/iJhonN/j-financas)
-
-### 📚 [Study With Me](https://github.com/iJhonN/study-with-me)
-Plataforma de estudos para **concursos públicos**.
-
-- O usuário cria a conta e escolhe o concurso
-- O sistema monta os tópicos a partir do edital
-
-`JavaScript` · [Código](https://github.com/iJhonN/study-with-me)
-
----
-
 ## 🛠️ Stack
 
 **Front-end**
