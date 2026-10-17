@@ -1,51 +1,72 @@
-### Apaixonado por tecnologia, foco em automação, clareza e eficiência. Desenvolvo soluções unindo programação, design e front-end para criar experiências simples e intuitivas.
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=iJhonN)](https://github.com/stats-organization/github-stats-extended)
-<hr>
+<h1 align="center">Olá, eu sou o Jhonatha 👋</h1>
 
-### Tecnologias que uso 💻
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> · Alagoas, Brasil 🇧🇷<br>
+  Automação, clareza e eficiência: uno programação, design e front-end<br>
+  para criar experiências simples e intuitivas.
 </p>
 
-<hr>
-
-### Também tenho experiência com 🧰
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white">
+<p align="center">
+  <a href="https://jhonathanunes.space"><img src="https://img.shields.io/badge/Portf%C3%B3lio-jhonathanunes.space-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/jhonatha_nunes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:SEU@EMAIL.COM"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<hr>
+<p align="center">🟢 Aberto a oportunidades e projetos freelance</p>
 
-### Sistemas Operacionais que utilizo 🖥️
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [**j-financas**](https://github.com/iJhonN/j-financas) | Descreva aqui em uma frase (ex.: controle financeiro pessoal simples e visual) | `TypeScript` |
+| [**study-with-me**](https://github.com/iJhonN/study-with-me) | Descreva aqui em uma frase (ex.: ferramenta de foco e estudos) | `JavaScript` |
+
+> 💡 Adicione prints ou links de demo nos READMEs desses repositórios.
+
+---
+
+## 🛠️ Stack
+
+**Front-end**
 
 <p>
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
-<hr>
+**Back-end e banco de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,java,kotlin,lua,mysql" />
+</p>
+
+**Cloud, ferramentas e design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,aws,gcp,cloudflare,figma,ps,pr,ae" />
+</p>
+
+---
+
+## 🌱 No momento
+
+- 📚 Aprofundando em **TypeScript e React**
+- ⚙️ Construindo automações para pequenos negócios
+- 🎨 Unindo design e código em interfaces mais limpas
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=iJhonN&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iJhonN&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep your head up and keep building."</i>
+</p>
