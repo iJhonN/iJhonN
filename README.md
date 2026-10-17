@@ -13,10 +13,10 @@
 
 ## 🛠️ Stack
 
-**Front-end**
+**Front-end e mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart" />
 </p>
 
 **Back-end e automação**
@@ -37,10 +37,10 @@
   <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vercel,cloudflare,aws,gcp" />
 </p>
 
-**Ferramentas e IA**
+**Ferramentas, documentação e IA**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,postman,md,obsidian" />
   <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
