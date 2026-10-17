@@ -29,13 +29,8 @@ Plataforma de estudos para **concursos públicos**.
 
 - O usuário cria a conta e escolhe o concurso
 - O sistema monta os tópicos a partir do edital
-- Envia conteúdos e questões para praticar
-- Após um número definido de respostas, libera **simulados**
 
 `JavaScript` · [Código](https://github.com/iJhonN/study-with-me)
-
-### 🤖 Automações e bots de atendimento
-Bots de **WhatsApp** que respondem clientes automaticamente, criados com **n8n** e integrações por API.
 
 ---
 
