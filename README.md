@@ -1,9 +1,7 @@
 <h1 align="center">Olá, eu sou o Jhonatha 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> · Alagoas, Brasil 🇧🇷<br>
-  Construo sistemas, automações e bots, do front-end à infraestrutura.<br>
-  Foco em clareza, eficiência e experiências simples de usar.
+  <b>Desenvolvedor Full Stack</b> · Alagoas, Brasil 🇧🇷
 </p>
 
 <p align="center">
