@@ -41,7 +41,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,postman,md,obsidian" />
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
 </p>
