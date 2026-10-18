@@ -68,22 +68,8 @@ Uso **Kali Linux** para testar vulnerabilidades nos meus próprios sites e banco
 
 ---
 
-## 🌱 No momento
-
-- 📚 Evoluindo o **Study With Me** e o **J-Finanças**
-- ⚙️ Criando novas automações com n8n
-- 🧪 Estudando segurança aplicada ao desenvolvimento web
-
----
-
 ## 📊 Linguagens mais usadas
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iJhonN&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Aberto a oportunidades e projetos freelance 🟢</i>
 </p>
